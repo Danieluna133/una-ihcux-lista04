@@ -1,6 +1,6 @@
 # una-ihcux-lista04
 
-- Esplicaçao do try-catch: 
+- Explicação do try-catch: 
 O try-catch é um mecanismo usado na programação para tratar erros (exceções) de forma controlada, impedindo que o programa pare de funcionar inesperadamente quando algo dá errado
 
 <img width="1205" height="698" alt="Caminho Feliz" src="https://github.com/user-attachments/assets/36f23f0a-071c-41ba-b877-9149cc4901f3" />
